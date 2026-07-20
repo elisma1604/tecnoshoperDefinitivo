@@ -1,0 +1,5 @@
+# Ignore exported project archive
+atdm-automation-flutter-main/tecnoshopper.zip
+
+# Ignore any zip archives by default
+*.zip
